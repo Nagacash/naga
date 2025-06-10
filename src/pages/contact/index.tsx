@@ -22,7 +22,7 @@ function Contact() {
   const select = [
     {
       value: "none",
-      innerText: "Let us know why you're reaching out",
+      innerText: "Let us know why you&apos;re reaching out",
     },
     {
       value: "Event Booking",
@@ -75,7 +75,7 @@ function Contact() {
       `Email: ${email}`,
       `Why are you reaching out?: ${bookingType}`,
       // Only include artist if a valid one is selected and bookingType is relevant
-      bookingType === 'Event Booking' && artist && artist !== 'none' && artist !== "Let's Work" ? `Artist: ${artist}` : null,
+      bookingType === 'Event Booking' && artist && artist !== 'none' && artist !== "Let&apos;s Work" ? `Artist: ${artist}` : null,
       `Message: ${message}`,
     ]
     .filter(Boolean) // Removes null entries from the array
@@ -150,7 +150,7 @@ function Contact() {
           </div>
           <div className="flex justify-end mt-4">
             <p className="w-[70%] md:text-[16px] 2xl:text-[22px] text-[13px]">
-              If you are in need for bookings, event organization or any other kind, reach out to us, we may be able to work something out. We've booked Nolay, Rowdy Rebel, Kitty Kat, OTW, Capuz, Miss La Familia, Boot Camp Clique, Redman just to name a few.
+              If you are in need for bookings, event organization or any other kind, reach out to us, we may be able to work something out. We&apos;ve booked Nolay, Rowdy Rebel, Kitty Kat, OTW, Capuz, Miss La Familia, Boot Camp Clique, Redman just to name a few.
             </p>
           </div>
         </motion.div>
@@ -223,7 +223,7 @@ function Contact() {
                   Tell us who you are reaching out for?
                 </option>
                 <option
-                  value="Let's Work"
+                  value="Let&apos;s Work"
                   className="bg-background text-[14px] 2xl:text-[20px]"
                 >
                   Clothing

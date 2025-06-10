@@ -208,7 +208,7 @@ function About() {
               animate={descTextInView && "animate"}
               className={`${satoshiMedium.className} mt-6 text-[3.5vw] tracking-tight leading-tight uppercase`}
             >
-              Naga Apparel embodies the future of urban style. We fuse cutting-edge design with bold self-expression, creating unique streetwear that empowers you. Discover collections like "The Golden Drip" and "Hustle Hard Gym Drip," crafted for those who define trends, not follow them. Elevate your wardrobe with our innovative spirit. #NagaApparel #UrbanStyle #FutureFashion #Streetwear #Innovation
+              Naga Apparel embodies the future of urban style. We fuse cutting-edge design with bold self-expression, creating unique streetwear that empowers you. Discover collections like &quot;The Golden Drip&quot; and &quot;Hustle Hard Gym Drip,&quot; crafted for those who define trends, not follow them. Elevate your wardrobe with our innovative spirit. #NagaApparel #UrbanStyle #FutureFashion #Streetwear #Innovation
             </motion.h4>
           </div>
         </div>

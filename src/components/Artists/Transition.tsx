@@ -171,11 +171,11 @@ function Transition() {
             className="md:text-[16px] 2xl:text-[22px] text-[13px]"
           >
              Need Bookings or Event Organization? <br></br>
-Looking to book an artist or planning an event? Maybe you've got another idea in mind? Reach out to us! We're always open to new possibilities and ready to help you bring your vision to life.
+Looking to book an artist or planning an event? Maybe you&apos;ve got another idea in mind? Reach out to us! We&apos;re always open to new possibilities and ready to help you bring your vision to life.
 
-We've got a proven track record, having worked with incredible talents like Nolay, Rowdy Rebel, Kitty Kat, OTW, Capuz, Miss La Familia, Boot Camp Clique, and Redman, just to name a few.
+We&apos;ve got a proven track record, having worked with incredible talents like Nolay, Rowdy Rebel, Kitty Kat, OTW, Capuz, Miss La Familia, Boot Camp Clique, and Redman, just to name a few.
 
-Don't hesitate to get in touch—we might just be able to work something out!
+Don&apos;t hesitate to get in touch—we might just be able to work something out!
           </motion.p>
         </div>
         <motion.div
