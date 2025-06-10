@@ -1,0 +1,17 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  color: #fff;
+  background-color: #121212;
+  overflow-x: hidden;
+}
+
+.text {
+  color: #fff;
+}
+
+.latest-release-bg {
+  background-image: url('/images/mulla15.jpg');
+}
