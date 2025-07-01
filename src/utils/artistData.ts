@@ -103,7 +103,7 @@ const artists = [
         ],
         // Updated local paths for landscape and portrait images
         landscapeImage: '/gallery/mulla18.jpg', 
-        portraitImage: '/gallery/mula19.jpg' 
+        portraitImage: '/gallery/mulla19.jpg' 
     },
     // {
     //     artistName: "George",

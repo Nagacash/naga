@@ -144,6 +144,7 @@ function About() {
                 src={Picture2}
                 alt="j mula in a mask opening a red ring box"
                 className="w-full h-full"
+                sizes="(max-width: 768px) 100vw, 8vw"
               />
             </motion.div>
             <motion.h3

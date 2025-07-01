@@ -94,6 +94,7 @@ function Navbar() {
                   src={logo}
                   alt="white oracle music of t.h.u.g.s. music logo"
                   width={60}
+                  priority
                 />
               </Link>
             </div>
@@ -156,6 +157,7 @@ function Navbar() {
                   src={TalkImage}
                   alt="spinning radial text"
                   placeholder="blur"
+                  sizes="(max-width: 768px) 100vw, (max-width: 1200px) 50vw, 33vw"
                   className="w-full h-full"
                 />
               </div>

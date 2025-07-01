@@ -15,6 +15,7 @@ function LocalImage({ image, width, height, alt, className }: { image: string, w
           priority={true}
           quality={75}
           fill={true}
+          sizes="(max-width: 768px) 100vw, (max-width: 1200px) 50vw, 33vw"
           style={{
             objectFit: 'cover',
           }}

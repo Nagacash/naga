@@ -91,7 +91,7 @@ function Artists() {
               <button
                 className={`${satoshiRegular.className} text-white md:text-[24px] text-[18px] group-hover:text-background duration-[.4s]`}
               >
-                VIEW ARTISTSl
+                VIEW ARTISTS
               </button>
               <ArrowRightIcon
                 color="#fff"
